@@ -1,0 +1,144 @@
+{
+  "id": "a0c5fcbc-ccc3-4ec0-8d9f-a6fb12b1de3d",
+  "type": "User Profile",
+  "name": "alexst90",
+  "project": "Governance",
+  "config": "{\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1c\",\"r\":\"0x5e76238f09a13904744b5762c732bda1971f492fb9bd7e3932786d926f01bc8c\",\"s\":\"0x03f1fcfa8ee5894634108e22901372d7a4e005623c6b96bc71b2c00e1b910667\",\"signature\":\"0x5e76238f09a13904744b5762c732bda1971f492fb9bd7e3932786d926f01bc8c03f1fcfa8ee5894634108e22901372d7a4e005623c6b96bc71b2c00e1b9106671c\"},\"codeName\":\"alexst90\"}",
+  "savedPayload": {
+    "position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "targetPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "floatingObject": {
+      "isPinned": false,
+      "isFrozen": false,
+      "isCollapsed": false,
+      "angleToParent": 1,
+      "distanceToParent": 3,
+      "arrangementStyle": 0
+    },
+    "uiObject": {
+      "isRunning": false
+    }
+  },
+  "tokenPowerSwitch": {
+    "id": "ff125209-5ce3-4024-85ac-306f93ec131a",
+    "type": "Token Power Switch",
+    "name": "New Token Power Switch",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "tokenPowerSwitch": []
+  },
+  "tokensMined": {
+    "type": "Tokens Mined",
+    "name": "New Tokens Mined",
+    "project": "Governance",
+    "id": "515079c7-c742-435e-ba9c-a1afeb1f431a",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    }
+  },
+  "socialPersonas": {
+    "id": "228fc467-6161-46c5-afe4-77d736afe854",
+    "type": "Social Personas",
+    "name": "New Social Personas",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "socialPersonas": [
+      {
+        "id": "26fa210e-d5f7-4bd4-b761-a6794f2fa761",
+        "type": "Social Persona",
+        "name": "New Social Persona",
+        "project": "Governance",
+        "config": "{\"codeName\":\"Social-Persona-deadsleeve\",\"socialHandle\":\"\",\"bio\":\"\"}",
+        "savedPayload": {
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "targetPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "floatingObject": {
+            "isPinned": false,
+            "isFrozen": false,
+            "isCollapsed": false,
+            "angleToParent": 1,
+            "distanceToParent": 3,
+            "arrangementStyle": 0
+          },
+          "uiObject": {
+            "isRunning": false
+          }
+        },
+        "signingAccount": null
+      }
+    ]
+  },
+  "userApps": null
+}

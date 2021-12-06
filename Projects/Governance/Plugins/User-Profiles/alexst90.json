@@ -1,0 +1,284 @@
+{
+  "id": "e285a9ed-5e46-446e-a6c9-bfe5aec696df",
+  "type": "User Profile",
+  "name": "alexst90",
+  "project": "Governance",
+  "config": "{\"codeName\":\"alexst90\",\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1c\",\"r\":\"0xc7e515d34bade46c49c73522f1d287dcf60151ba5a9f2dc344aa679ad0f29a87\",\"s\":\"0x423b1898ea850db7e8f4f50a0a9e259051721ea7abc4b0978bacd7415cddea56\",\"signature\":\"0xc7e515d34bade46c49c73522f1d287dcf60151ba5a9f2dc344aa679ad0f29a87423b1898ea850db7e8f4f50a0a9e259051721ea7abc4b0978bacd7415cddea561c\"}}",
+  "savedPayload": {
+    "position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "targetPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "floatingObject": {
+      "isPinned": false,
+      "isFrozen": false,
+      "isCollapsed": false,
+      "angleToParent": 1,
+      "distanceToParent": 3,
+      "arrangementStyle": 0
+    },
+    "uiObject": {
+      "isRunning": false
+    }
+  },
+  "tokenPowerSwitch": {
+    "id": "7aad0d17-4d0d-4127-80e9-77aed341b4b5",
+    "type": "Token Power Switch",
+    "name": "New Token Power Switch",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "tokenPowerSwitch": []
+  },
+  "tokensMined": {
+    "type": "Tokens Mined",
+    "name": "New Tokens Mined",
+    "project": "Governance",
+    "id": "a52fe65e-f817-4cf4-bcf2-9fc5028df74a",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    }
+  },
+  "socialPersonas": {
+    "id": "4fbd5572-ac2d-4819-bfde-e9052f6c3796",
+    "type": "Social Personas",
+    "name": "New Social Personas",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "socialPersonas": [
+      {
+        "id": "d3d39e52-b58c-46cd-8ef1-ca9a04b05181",
+        "type": "Social Persona",
+        "name": "New Social Persona",
+        "project": "Governance",
+        "config": "{\"codeName\":\"Social-Persona-StrongPalm\",\"socialHandle\":\"\",\"bio\":\"\"}",
+        "savedPayload": {
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "targetPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "floatingObject": {
+            "isPinned": false,
+            "isFrozen": false,
+            "isCollapsed": false,
+            "angleToParent": 1,
+            "distanceToParent": 3,
+            "arrangementStyle": 0
+          },
+          "uiObject": {
+            "isRunning": false
+          }
+        },
+        "signingAccount": {
+          "id": "5329dc7f-4236-433b-a55d-268437ded165",
+          "type": "Signing Account",
+          "name": "New Signing Account",
+          "project": "Governance",
+          "config": "{\"codeName\":\"alexst90\",\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1c\",\"r\":\"0x3e25dfeab1f6affc57efdc423a0cd1cf89aaaa68944022fa9757ff8bc686a660\",\"s\":\"0x3d8391b0e04ff23a63b2bf392e8eaee38077efbf331479a61d73382710b9ae56\",\"signature\":\"0x3e25dfeab1f6affc57efdc423a0cd1cf89aaaa68944022fa9757ff8bc686a6603d8391b0e04ff23a63b2bf392e8eaee38077efbf331479a61d73382710b9ae561c\"}}",
+          "savedPayload": {
+            "position": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "targetPosition": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "floatingObject": {
+              "isPinned": false,
+              "isFrozen": false,
+              "isCollapsed": false,
+              "angleToParent": 1,
+              "distanceToParent": 3,
+              "arrangementStyle": 0
+            },
+            "uiObject": {
+              "isRunning": false
+            }
+          }
+        }
+      }
+    ]
+  },
+  "userApps": {
+    "id": "383a00c7-430e-4d76-a4a8-d1a86ff52a81",
+    "type": "User Apps",
+    "name": "New User Apps",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "mobileApps": {
+      "id": "660e8479-5caa-4a5f-a926-1b46c150964e",
+      "type": "Mobile Apps",
+      "name": "New Mobile Apps",
+      "project": "Governance",
+      "config": "{}",
+      "savedPayload": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "targetPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "floatingObject": {
+          "isPinned": false,
+          "isFrozen": false,
+          "isCollapsed": false,
+          "angleToParent": 1,
+          "distanceToParent": 3,
+          "arrangementStyle": 0
+        },
+        "uiObject": {
+          "isRunning": false
+        }
+      },
+      "socialTradingMobileApps": [
+        {
+          "id": "b9f051d4-492b-4b38-8948-0ac397b2a6ac",
+          "type": "Social Trading Mobile App",
+          "name": "New Social Trading Mobile App",
+          "project": "Governance",
+          "config": "{\"codeName\":\"Social-Trading-Mobile-App-ToughFlood\",\"host\":\"\",\"webSocketsPort\":\"\"}",
+          "savedPayload": {
+            "position": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "targetPosition": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "floatingObject": {
+              "isPinned": false,
+              "isFrozen": false,
+              "isCollapsed": false,
+              "angleToParent": 1,
+              "distanceToParent": 3,
+              "arrangementStyle": 0
+            },
+            "uiObject": {
+              "isRunning": false
+            }
+          },
+          "signingAccount": {
+            "id": "519fb3cc-4c17-4334-a83c-a98b14f025cb",
+            "type": "Signing Account",
+            "name": "New Signing Account",
+            "project": "Governance",
+            "config": "{\"codeName\":\"alexst90\",\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1c\",\"r\":\"0xc398a4855c8f9b12f3038af3d4f0d06d8ad7bcfe0ff5ffc09f42ec55e8b8eaf0\",\"s\":\"0x69eac5107036e9d90e6706a41f0c26663ecf49af8a4e77b9e3f7e37d7890a1fa\",\"signature\":\"0xc398a4855c8f9b12f3038af3d4f0d06d8ad7bcfe0ff5ffc09f42ec55e8b8eaf069eac5107036e9d90e6706a41f0c26663ecf49af8a4e77b9e3f7e37d7890a1fa1c\"}}",
+            "savedPayload": {
+              "position": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "targetPosition": {
+                "x": 0.0,
+                "y": 0.0
+              },
+              "floatingObject": {
+                "isPinned": false,
+                "isFrozen": false,
+                "isCollapsed": false,
+                "angleToParent": 1,
+                "distanceToParent": 3,
+                "arrangementStyle": 0
+              },
+              "uiObject": {
+                "isRunning": false
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

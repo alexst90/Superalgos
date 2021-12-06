@@ -1,0 +1,142 @@
+{
+  "id": "6948e28a-8d30-446f-8da1-9684dfb0b052",
+  "type": "User Profile",
+  "name": "alexst90",
+  "project": "Governance",
+  "config": "{\"signature\":{\"message\":\"alexst90\",\"messageHash\":\"0x77c0973c22e9ab1f3bad631b63b891a8f653a0eb5d4acca9941ef10fe49a1501\",\"v\":\"0x1b\",\"r\":\"0xf010c6c25e2bb10690b79c73e14323048d77671c4392307fe95625408b738315\",\"s\":\"0x6e651626b409ffd900d986f1e9db7d5bf3e4798002d26dd9715c6f0d02769dc0\",\"signature\":\"0xf010c6c25e2bb10690b79c73e14323048d77671c4392307fe95625408b7383156e651626b409ffd900d986f1e9db7d5bf3e4798002d26dd9715c6f0d02769dc01b\"},\"codeName\":\"alexst90\"}",
+  "savedPayload": {
+    "position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "targetPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "floatingObject": {
+      "isPinned": false,
+      "isFrozen": false,
+      "isCollapsed": false,
+      "angleToParent": 1,
+      "distanceToParent": 3,
+      "arrangementStyle": 0
+    },
+    "uiObject": {
+      "isRunning": false
+    }
+  },
+  "tokenPowerSwitch": {
+    "id": "82ae392a-3b14-45ff-9353-f4a1b49dc8d5",
+    "type": "Token Power Switch",
+    "name": "New Token Power Switch",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "tokenPowerSwitch": []
+  },
+  "tokensMined": {
+    "type": "Tokens Mined",
+    "name": "New Tokens Mined",
+    "project": "Governance",
+    "id": "6178e3f2-e595-4e91-9e94-36b935971e0d",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    }
+  },
+  "socialPersonas": {
+    "id": "170fa702-bbaa-4af7-bc7a-6f7d97136240",
+    "type": "Social Personas",
+    "name": "New Social Personas",
+    "project": "Governance",
+    "config": "{}",
+    "savedPayload": {
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "targetPosition": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "floatingObject": {
+        "isPinned": false,
+        "isFrozen": false,
+        "isCollapsed": false,
+        "angleToParent": 1,
+        "distanceToParent": 3,
+        "arrangementStyle": 0
+      },
+      "uiObject": {
+        "isRunning": false
+      }
+    },
+    "socialPersonas": [
+      {
+        "id": "e413cc88-54fe-4125-af99-1400dfcc4c2c",
+        "type": "Social Persona",
+        "name": "New Social Persona",
+        "project": "Governance",
+        "config": "{\"codeName\":\"Social-Persona-MaskFly\",\"socialHandle\":\"\",\"bio\":\"\"}",
+        "savedPayload": {
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "targetPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "floatingObject": {
+            "isPinned": false,
+            "isFrozen": false,
+            "isCollapsed": false,
+            "angleToParent": 1,
+            "distanceToParent": 3,
+            "arrangementStyle": 0
+          },
+          "uiObject": {
+            "isRunning": false
+          }
+        }
+      }
+    ]
+  }
+}
